@@ -51,5 +51,5 @@ To generate the overall sentiment visualization (Figure 5, top), run:
 python pipeline_generate_tsne_stars.py
 ```
 
-- Figure_5.ipynb and Figure_15.ipynb reproduce the visualizations used in the paper.
+- Figure5.ipynb and Figure15.ipynb reproduce the visualizations used in the paper.
 - bertopic/ contains the HTML output of BERTopic corresponding to Figure 15.
