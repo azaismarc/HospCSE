@@ -1,4 +1,4 @@
-# Tourism Mining: Aligning Sentiment & Topic Representations of Sentence Transformer Embeddings for Tourism Opinion Mining
+# Tourism Mining: On the Promise of Specialized Opinion Mining Sentence Transformers for Corpus Exploration
 
 ![file](TourCSE.png)
 
